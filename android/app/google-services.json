@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "389591333547",
+    "project_id": "mentraverse-app",
+    "storage_bucket": "mentraverse-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389591333547:android:c4fa05cb8fee20a6d855ee",
+        "android_client_info": {
+          "package_name": "com.example.mentraverse_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389591333547-p69selh4o71u2pe9ks4jmc5hnp00r2m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentraverse_frontend",
+            "certificate_hash": "951cfb4a3f23f0349efba88b4658709d46a940d2"
+          }
+        },
+        {
+          "client_id": "389591333547-iugk4ba50ddiv19q2so7cdkc5hboo165.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDT3hZJEJWSjGjjI4khCHpclPtwMoe0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389591333547-iugk4ba50ddiv19q2so7cdkc5hboo165.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389591333547-k442pkp12stqg9f0k0u316r4qcfjl4br.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentraverseFrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
