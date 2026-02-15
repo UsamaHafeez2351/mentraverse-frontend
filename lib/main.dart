@@ -23,7 +23,7 @@ class MentraVerseApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
-      // currently theme mode light but soon i will toggle it
+      // currently theme mode light but soon i will toggle it 
       themeMode: ThemeMode.light,
       initialRoute: AppPages.initial,
       getPages: AppPages.routes,
