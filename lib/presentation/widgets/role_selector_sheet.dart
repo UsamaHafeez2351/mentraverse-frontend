@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:mentraverse_frontend/core/theme/app_colors.dart';
 
-Future<String?> showRoleSelectorSheet() {
+Future<String?> showRoleSelectorSheet() { 
   return Get.bottomSheet<String>(
     const RoleSelectorSheet(),
     isScrollControlled: true,
