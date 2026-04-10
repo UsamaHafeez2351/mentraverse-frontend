@@ -5,7 +5,7 @@ import 'package:mentraverse_frontend/core/theme/app_text_styles.dart';
 class CustomTextField extends StatelessWidget {
   final String label;
   final String? hintText;
-  final TextEditingController controller;
+  final TextEditingController controller; 
   final TextInputType? keyboardType;
   final bool obscureText;
   final String? Function(String?)? validator;
