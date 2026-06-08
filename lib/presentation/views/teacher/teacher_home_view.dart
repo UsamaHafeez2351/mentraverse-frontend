@@ -5,7 +5,7 @@ import 'package:mentraverse_frontend/presentation/controllers/auth_controller.da
 import 'package:mentraverse_frontend/presentation/widgets/custom_button.dart';
 
 class TeacherHomeView extends StatelessWidget {
-  const TeacherHomeView({super.key});
+  const TeacherHomeView({super.key}); 
 
   @override
   Widget build(BuildContext context) {
